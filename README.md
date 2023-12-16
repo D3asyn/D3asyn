@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Deasyn]! 👋
 
 I'm a passionate [Your Profession/Interest] from [Your Location]. Welcome to my GitHub profile!
 
@@ -22,7 +22,7 @@ I'm a passionate [Your Profession/Interest] from [Your Location]. Welcome to my 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,issues)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3asyn&show_icons=true&hide=contribs,issues)
 
 ## 🎉 Thanks for visiting!
 
