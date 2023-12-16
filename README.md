@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Deasyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3asyn&show_icons=true&theme=radical)
+![Deasyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3asyn&show_icons=true&theme=dracula)
 
 ## 🎉 Thanks for visiting!
 
