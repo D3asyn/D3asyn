@@ -1,4 +1,4 @@
-# Hello, I'm [Deasyn]! 👋
+# Hello, I'm Deasyn! 👋
 
 Welcome to my GitHub profile!
 
