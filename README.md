@@ -1,12 +1,12 @@
 # Hello, I'm [Deasyn]! 👋
 
-I'm a passionate [Your Profession/Interest] from [Your Location]. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
-[![Tech 1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)](https://example.com)
-[![Tech 2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)](https://example.com)
-[![Tech 3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)](https://example.com)
+[![Tech 1](https://img.shields.io/badge/Tech1-Tool1-success?style=for-the-badge)](https://example.com)
+[![Tech 2](https://img.shields.io/badge/Tech2-Tool2-blue?style=for-the-badge)](https://example.com)
+[![Tech 3](https://img.shields.io/badge/Tech3-Tool3-orange?style=for-the-badge)](https://example.com)
 
 ## 🌱 I'm currently learning
 
@@ -19,10 +19,9 @@ I'm a passionate [Your Profession/Interest] from [Your Location]. Welcome to my 
 - Skill 2
 - Skill 3
 
-
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3asyn&show_icons=true&hide=contribs,issues)
+![Your GitHub Stats](https://img.shields.io/badge/GitHub-Stats-yellow?style=for-the-badge)
 
 ## 🎉 Thanks for visiting!
 
